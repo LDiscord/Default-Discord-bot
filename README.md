@@ -5,6 +5,7 @@
 # Для Android:
  - приложение Pydroid3
  - библиотека Discord.py
+ - Внимание! Android версия нестабильна.
 # Связь:
  - Дискорд сервер - https://discord.gg/erdrBuxxmE
 ## Команды:
