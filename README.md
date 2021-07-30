@@ -1,11 +1,15 @@
 # Начальный дискорд бот(ненужный, по моему мнению.)
 # Для работы:
- - python 3.7и выше. 
+ - python 3.7 и выше. 
  - библиотека discord.py
+ - библиотека asyncio
 # Для Android:
  - приложение Pydroid3
  - библиотека Discord.py
+ - библиотека asyncio
  - Внимание! Android версия нестабильна.
+#Видео туториал:
+ - https://youtu.be/jgrn1CnYgls (он фиговый) 
 # Связь:
  - Дискорд сервер - https://discord.gg/erdrBuxxmE
 ## Команды:
