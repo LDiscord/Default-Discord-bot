@@ -2,6 +2,11 @@
 # Для работы:
  - python 3.7и выше. 
  - библиотека discord.py
+# Для Android:
+ - приложение Pydroid3
+ - библиотека Discord.py
+# Связь:
+ - Дискорд сервер - https://discord.gg/erdrBuxxmE
 ## Команды:
 
 ### Веселье:
