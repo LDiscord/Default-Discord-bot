@@ -24,7 +24,6 @@ async def help(ctx):
     emb.add_field(name="a!ava",value="Аватар Человека")
     emb.add_field(name="a!clear",value="Очистить Сообщения")
     emb.add_field(name="a!ban",value="Забанить Участника")
-    emb.add_field(name="a!thx",value="Благодарности")
     await ctx.send(embed=emb)
 @bot.command()
 async def ava(ctx, *, user: discord.
@@ -83,12 +82,4 @@ async def h(ctx):
     emb.add_field(name="a!ban",value="Забанить Участника")
     emb.add_field(name="a!thx",value="Благодарности")
     await ctx.send(embed=emb)
-@bot.command()
-async def thx(ctx):
-	emb = discord.Embed(title= 'Благодарности',colour=discord.Color.blue())
-	emb.add_field(name="Acelot",value="Очень помог с ботом", inline=False)
-	emb.add_field(name="Never See",value="Очень помог с ботом", inline=False)
-	emb.add_field(name="[UNX] Fonsy13",value="Придумал название")
-	emb.add_field(name= "Kaven0n",value="Хз,попросил совместку.")
-	await ctx.send(embed=emb)
 bot.run(settings['token'])
